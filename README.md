@@ -1,2 +1,3 @@
 # QuadCam
-I dont know what to do in a read me 
+This includes the code produced for my masters thesis at uwa 2024
+
